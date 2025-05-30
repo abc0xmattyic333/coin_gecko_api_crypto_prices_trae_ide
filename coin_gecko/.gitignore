@@ -1,0 +1,203 @@
+# Operating System Files
+.DS_Store
+.localized
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE and Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.orig
+*.pyc
+*.pyo
+__pycache__/
+
+# Build and Dependency Directories
+/build/
+/dist/
+/target/
+/out/
+/bin/
+/obj/
+/node_modules/
+/vendor/
+/venv/
+.env
+.ipynb_checkpoints/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+temp/
+tmp/
+logs/
+.DS_Store?
+*.lock
+*.pid
+*.seed
+*.tag
+
+# Package Manager Files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+composer.lock
+Gemfile.lock
+Pipfile.lock
+mix.lock
+
+# Editor-specific files
+.project
+.classpath
+.settings/
+.cache/
+/vendor/bundle/ # Ruby Bundler
+
+# Testing and Coverage
+/coverage/
+.nyc_output/
+junit.xml
+
+# Configuration Files (sensitive or local)
+config.local.js
+.env.local
+.env.*.local
+.gitlab-ci.local.yml
+.travis.local.yml
+.dockerignore
+
+# Specific to C/C++
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+*.pdb
+*.ilk
+*.suo
+*.user
+*.ncb
+*.aps
+*.bsc
+*.sbr
+*.res
+*.pch
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Specific to Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.rar
+*.7z
+*.apk
+*.dex
+/bin/
+/build/
+.gradle/
+target/
+pom.xml.tag
+release/
+releaseme.zip
+.project
+.classpath
+.externalToolBuilders/
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Specific to Python
+*.pyc
+*.pyo
+__pycache__/
+.Python
+env/
+venv/
+pip-log.txt
+.pytest_cache/
+.coverage
+
+# Specific to Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+.env
+.next/ # Next.js
+.nuxt/ # Nuxt.js
+dist/
+out/
+
+# Specific to Ruby
+.bundle/
+.byebug_history
+.rake_tasks
+/coverage/
+/log/*.log
+/tmp/
+*.rbc
+capybara-*.html
+.rspec
+.sass-cache/
+/vendor/bundle/
+/vendor/cache/
+/vendor/gems/
+/vendor/ruby/
+
+# Specific to PHP
+/vendor/
+composer.phar
+.env
+.phpunit.result.cache
+
+# Specific to Go
+*.exe
+*.test
+*.prof
+/bin/
+
+# Specific to Rust
+/target/
+
+# Specific to LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.dvi
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+_minted*
+
+# Specific to Docker
+Dockerfile.orig
+.dockerignore
+.env
+
+# Thumbnails and Previews
+.thumbnails/
+.DS_Store
